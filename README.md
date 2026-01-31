@@ -1,33 +1,72 @@
-# OOPSJ LAB
+# OOPSJ Lab
 
-Welcome to **OOPS LAB**!
-
-## About
-
-**OOPS** A repository for uploading and organizing daily lab work, experiment notes, and results. Designed for seamless tracking and collaboration on ongoing research activities.
-
-<!---
-
-## Features
-
-- 🚀 **Feature 1**: [Short description of feature]
-- 🌟 **Feature 2**: [Short description of feature]
-- 🔒 **Feature 3**: [Short description of feature]
-- 🖥 **Feature 4**: [Short description of feature]
+Welcome to the **OOPSJ Lab** repository! This repository contains Java programs developed as part of Object-Oriented Programming (OOP) laboratory work. It is intended for academic practice and hands-on understanding of core OOP concepts using Java.
 
 ---
 
-## Installation
+## 📌 About
 
-### Prerequisites
+This repository is used to:
+- Store Java lab programs and experiments
+- Practice and demonstrate Object-Oriented Programming concepts
+- Maintain a structured record of OOP lab work
 
-To run this project locally, you'll need:
+All programs are written in **Java** and follow standard OOP principles.
 
-- **[Tool/Software 1]** - [version]
-- **[Tool/Software 2]** - [version]
+---
 
-### Steps
+## 🧠 Concepts Covered
 
-1. **Clone this repository**:
+- Classes and Objects
+- Constructors and Method Overloading
+- Inheritance
+- Polymorphism
+- Interfaces
+- Java Basics and Syntax
+- Simple Java Applications
+
+---
+
+## 🚀 How to Run the Programs
+
+1. Clone the repository
    ```bash
-   git clone https://github.com/your-username/project-title.git
+   git clone https://github.com/kauntiaakash2/oopsj_Lab.git
+   ```
+
+2. Navigate to the directory
+   ```bash
+   cd oopsj_Lab
+   ```
+
+3. Compile a Java file
+   ```bash
+   javac FileName.java
+   ```
+
+4. Run the program
+   ```bash
+   java FileName
+   ```
+
+---
+
+## 🛠️ Contribution
+
+Contributions are welcome. You may:
+- Add new lab programs
+- Improve existing code
+- Enhance documentation
+
+---
+
+## 📄 License
+
+This project does not currently include a license.
+
+---
+
+## 👨‍💻 Author
+
+**Akash Agarwal; 24155154; CSE28**  
+B.Tech CSE – Object-Oriented Programming Lab Work
